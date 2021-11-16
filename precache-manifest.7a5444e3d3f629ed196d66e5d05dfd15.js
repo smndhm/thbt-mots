@@ -432,16 +432,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/thbt-mots/audio/vivant.mp3"
   },
   {
-    "revision": "1241784b2a2c69e8eb628dff8025b77b",
+    "revision": "d6d0deda3ea5a7d5f593",
+    "url": "/thbt-mots/css/app.2c3e3fe0.css"
+  },
+  {
+    "revision": "166cda232a3232e8a4bb",
+    "url": "/thbt-mots/css/chunk-vendors.24bf1742.css"
+  },
+  {
+    "revision": "742a3b08aba39c764f70175e2abb9d30",
     "url": "/thbt-mots/index.html"
   },
   {
-    "revision": "557eec9c2f2111cee7f1",
-    "url": "/thbt-mots/js/app.4d936ac4.js"
+    "revision": "d6d0deda3ea5a7d5f593",
+    "url": "/thbt-mots/js/app.7c2e2baa.js"
   },
   {
-    "revision": "6b2449296a3a57786fdf",
-    "url": "/thbt-mots/js/chunk-vendors.021680f6.js"
+    "revision": "166cda232a3232e8a4bb",
+    "url": "/thbt-mots/js/chunk-vendors.e455ab16.js"
   },
   {
     "revision": "829c0205ecfc25552c02",
