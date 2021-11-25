@@ -1,5 +1,9 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
+    "revision": "b90b4af52c31e6db9d1e30dd76037bc0",
+    "url": "/thbt-mots/apple-touch-icon.png"
+  },
+  {
     "revision": "7150983b6e6316ac4b31a85e5f1de365",
     "url": "/thbt-mots/audio/abeille.mp3"
   },
@@ -1284,7 +1288,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/thbt-mots/css/words.055ff9c6.css"
   },
   {
-    "revision": "f16c1f49a716e4f48af2bd306618babb",
+    "revision": "eede06fc8d6866ecc4370f4ea3a8eed2",
     "url": "/thbt-mots/index.html"
   },
   {
@@ -1300,7 +1304,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/thbt-mots/js/words.b542bd4f.js"
   },
   {
-    "revision": "02419908e3d4c2ffa7e61767d17c5327",
+    "revision": "1801381c05ae33c1894406c0a55d6e3b",
     "url": "/thbt-mots/manifest.json"
   },
   {
