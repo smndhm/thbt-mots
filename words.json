@@ -1,0 +1,464 @@
+[
+  {
+    "id": 1,
+    "title": "semaine 1", 
+    "words": [
+      "conduire", 
+      "chiffon",
+      "nom",
+      "montrer",
+      "pont",
+      "nombreux",
+      "monter",
+      "bonbon",
+      "comprendre",
+      "jambon",
+      "menton",
+      "longtemps"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "semaine 2", 
+    "words": [
+      "entendre", 
+      "vivant",
+      "autant",
+      "manquer",
+      "champ",
+      "ventre",
+      "emporter",
+      "marchand",
+      "seulement",
+      "ensemble",
+      "temps",
+      "lent"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "semaine 3", 
+    "words": [
+      "inviter",
+      "simple",
+      "lendemain",
+      "vilain",
+      "fin",
+      "infirmier",
+      "bain",
+      "combien",
+      "printemps",
+      "juin",
+      "ancien",
+      "prochain"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "semaine 5", 
+    "words": [
+      "escargot",
+      "haut",
+      "autrefois",
+      "chaussure",
+      "nouveau",
+      "chose",
+      "drôle",
+      "château",
+      "sauver",
+      "piano",
+      "poser",
+      "mauvais"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "semaine 6", 
+    "words": [
+      "tortue",
+      "carotte",
+      "sortir",
+      "poche",
+      "mort",
+      "octobre",
+      "automne",
+      "dormir",
+      "bonhomme",
+      "port",
+      "nord",
+      "corde"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "semaine 8", 
+    "words": [
+      "décorer",
+      "couteau",
+      "aucun",
+      "donc",
+      "cirque",
+      "coup",
+      "magnifique",
+      "court",
+      "bouquet",
+      "quelquefois",
+      "pourquoi",
+      "skier"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "semaine 9", 
+    "words": [
+      "goûter",
+      "gourmand",
+      "langue",
+      "gagner",
+      "tigre",
+      "gai",
+      "vague",
+      "église",
+      "légume",
+      "maigre",
+      "également"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "semaine 10", 
+    "words": [
+      "mélanger",
+      "argent",
+      "sauvage",
+      "bijou",
+      "nager",
+      "les gens",
+      "dangereux",
+      "juillet",
+      "ajouter",
+      "nuage",
+      "orage",
+      "pigeon"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "semaine 12", 
+    "words": [
+      "souhaiter",
+      "souris",
+      "sec",
+      "sans",
+      "facile",
+      "commencer",
+      "source",
+      "dessert",
+      "dessous",
+      "glisser",
+      "j'ai reçu",
+      "piscine",
+      "addition"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "semaine 13",
+    "words": [
+      "mesurer", 
+      "amusant", 
+      "plusieurs", 
+      "surprise", 
+      "visiteur", 
+      "raisin", 
+      "à cause de", 
+      "heureusement", 
+      "cousin", 
+      "les ciseaux"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "semaine 16",
+    "words": [
+      "vigne",
+      "campagne",
+      "panier"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "semaine 17",
+    "words": [
+      "il est né",
+      "clé",
+      "boucher",
+      "dîner",
+      "tablier",
+      "préférer",
+      "été",
+      "matinée",
+      "boulanger",
+      "saison",
+      "assez"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "semaine 18",
+    "words": [
+      "chèvre",
+      "forêt",
+      "maire",
+      "prêt",
+      "mètre",
+      "aile",
+      "frais", 
+      "même",
+      "rivière",
+      "pièce",
+      "hiver"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "semaine 20",
+    "words": [
+      "oublier", 
+      "métier", 
+      "violet", 
+      "crayon", 
+      "gardien", 
+      "voyage", 
+      "bientôt", 
+      "bille", 
+      "bataille", 
+      "un œil",
+      "les yeux", 
+      "papillon"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "semaine 22",
+    "words": [
+      "mieux",
+      "peu",
+      "déjeuner",
+      "creux",
+      "lieu",
+      "eux",
+      "malheureux"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "semaine 23",
+    "words": [
+      "beurre",
+      "fleuve",
+      "cœur",
+      "instituteur",
+      "fauteuil",
+      "bœuf",
+      "œuf",
+      "œil",
+      "sœur",
+      "neuf"
+    ]
+  },
+  {
+    "id": 26,
+    "title": "semaine 26",
+    "words": [
+      "apprendre", 
+      "abeille", 
+      "mais", 
+      "départ", 
+      "partout", 
+      "arrêter", 
+      "adresse", 
+      "doigt", 
+      "pointu", 
+      "ours", 
+      "voix", 
+      "âge", 
+      "les devoirs", 
+      "ouest", 
+      "vendre", 
+      "arriver", 
+      "cacher", 
+      "envie", 
+      "page", 
+      "renard"
+    ]
+  },
+  {
+    "id": 27,
+    "title": "semaine 27",
+    "words": [
+      "continuer", 
+      "août", 
+      "escalier", 
+      "panne", 
+      "sud", 
+      "courir", 
+      "avril", 
+      "parapluie", 
+      "vitrine", 
+      "découper", 
+      "banane", 
+      "facteur", 
+      "parc", 
+      "début", 
+      "parler", 
+      "besoin", 
+      "février", 
+      "pâte", 
+      "prix" 
+    ]
+  },
+  {
+    "id": 28,
+    "title": "semaine 28",
+    "words": [
+      "écouter", 
+      "blé", 
+      "fois", 
+      "pays", 
+      "graine", 
+      "poisson", 
+      "large", 
+      "place", 
+      "novembre", 
+      "fermer", 
+      "bonsoir", 
+      "fraise", 
+      "étroit", 
+      "roue", 
+      "fumer", 
+      "front", 
+      "plume", 
+      "agréable", 
+      "carte" 
+    ]
+  },
+  {
+    "id": 29,
+    "title": "semaine 29",
+    "words":[
+      "habiter",
+      "cabane",
+      "là-bas",
+      "huile",
+      "vouloir",
+      "lire",
+      "la lecture",
+      "poire",
+      "poil",
+      "centime",
+      "mettre",
+      "cartable",
+      "les habits",
+      "griffe",
+      "dur"
+    ]
+  },
+  {
+    "id": 30,
+    "title": "semaine 30",
+    "words":[
+      "carton",
+      "depuis",
+      "idée",
+      "plat",
+      "préparer",
+      "île",
+      "rat",
+      "doux",
+      "formidable",
+      "prêter",
+      "centre",
+      "image",
+      "valise",
+      "camarade",
+      "punir",
+      "chaise",
+      "debout",
+      "football",
+      "janvier"
+    ]
+  },
+  {
+    "id": 31,
+    "title": "semaine 31",
+    "words":[
+      "répondre",
+      "chameau",
+      "laine",
+      "rentrée",
+      "accident",
+      "rire",
+      "chance",
+      "cela",
+      "larme",
+      "colère",
+      "rouler",
+      "chemin",
+      "utile",
+      "inutile"
+    ]
+  },
+  {
+    "id": 32,
+    "title": "semaine 32",
+    "words":[
+      "sentir",
+      "colline",
+      "mars",
+      "possible",
+      "quelqu'un",
+      "se promener",
+      "milieu",
+      "fourmi",
+      "mille",
+      "se coucher",
+      "minute",
+      "septembre",
+      "viande",
+      "terminer",
+      "toucher",
+      "décembre",
+      "savoir",
+      "presque",
+      "pomme de terre"
+    ]
+  },
+  {
+    "id": 33,
+    "title": "semaine 33",
+    "words":[
+      "trouver",
+      "rapide",
+      "moulin",
+      "toilette",
+      "bouteille",
+      "tour",
+      "toit",
+      "veau",
+      "énorme",
+      "souffler",
+      "verre",
+      "vêtement",
+      "quelque",
+      "verser",
+      "salle",
+      "vie",
+      "vin",
+      "visage",
+      "voler",
+      "chacun",
+      "menu"
+    ]
+  }
+]
