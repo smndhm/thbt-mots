@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/thbt-mots/precache-manifest.aa8537f7934f8cda84f2dcacec738475.js"
+  "/precache-manifest.61d9d3db24656083a1ca86452221fa4d.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "thbt-mots"});
